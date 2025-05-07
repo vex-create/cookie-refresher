@@ -21,5 +21,3 @@ Done ✅
 ---
 
 💬 **Want to purchase a better tool? ex. RAT tools, crypto miner, captcha sovler etc.** DM me on Discord: `jud7`
-
----
