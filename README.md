@@ -1,9 +1,5 @@
-Got it — here’s a super short and easy version for your GitHub:
-
----
-
 # 🔁 Refresh Roblox Cookie (PHP)
-
+---
 **Quick and simple method.**
 
 ### 🛠 What you need:
