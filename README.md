@@ -8,3 +8,5 @@ if you can read the code it cleary says you need to go to
 localhost/yourfile.php?cookie=cookie_you_wanna_refresh
 
 and thats it 
+if you need help or want more tools to buy dm me on discord 
+dc: jud7
